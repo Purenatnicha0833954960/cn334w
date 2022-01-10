@@ -9,7 +9,7 @@
 
 # Laravel-todo-app
 This is the basic to-do app with authentication created as a part of tutorial for beginners to understand and learn laravel concepts
-<a href="https://www.parthpatel.net/laravel-tutorial-for-beginner/" rel="dofollow">Laravel Tutorial for beginner</a>
+<a href="https://www.parthpatel.net/laravel-tutorial-for-beginner/" rel="dofollow">Laravel Tutorial for beginner and commit Naaa</a>
 
 Now I hope you already installed composer in your system(your local computer or server)
 
